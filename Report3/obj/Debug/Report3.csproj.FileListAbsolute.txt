@@ -1,0 +1,8 @@
+c:\users\a\documents\visual studio 2013\Projects\Report3\Report3\bin\Report3.dll.config
+c:\users\a\documents\visual studio 2013\Projects\Report3\Report3\bin\Report3.dll
+c:\users\a\documents\visual studio 2013\Projects\Report3\Report3\bin\Report3.pdb
+c:\users\a\documents\visual studio 2013\Projects\Report3\Report3\obj\Debug\Report3.csprojResolveAssemblyReference.cache
+c:\users\a\documents\visual studio 2013\Projects\Report3\Report3\obj\Debug\RdlCompile.cache
+c:\users\a\documents\visual studio 2013\Projects\Report3\Report3\obj\Debug\RdlCompile.compiled
+c:\users\a\documents\visual studio 2013\Projects\Report3\Report3\obj\Debug\Report3.dll
+c:\users\a\documents\visual studio 2013\Projects\Report3\Report3\obj\Debug\Report3.pdb
